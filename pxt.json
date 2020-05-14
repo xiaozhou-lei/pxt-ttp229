@@ -1,0 +1,15 @@
+{
+    "name": "触摸键盘",
+    "version": "0.0.1",
+    "description": "触摸键盘积木",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/ttp229-strings.json"
+    ],
+    "public": true
+}
