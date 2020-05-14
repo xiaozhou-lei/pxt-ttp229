@@ -9,7 +9,8 @@
 		"max7219": "github:gchen1996/pxt-max7219",
 		"tm1650": "github:gchen1996/pxt-tm1650",
 		"irreceive": "github:gchen1996/pxt-irreceive",
-		"IR": "github:gchen1996/pxt-IR"
+		"IR": "github:gchen1996/pxt-IR",
+		"rgbUltrasonic": "github:gchen1996/pxt-rgbUltrasonic"
     },
     "files": [
         "README.md",
