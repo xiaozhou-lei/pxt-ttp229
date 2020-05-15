@@ -1,4 +1,4 @@
 {
     "ttp229|block": "触摸键盘",
-    "ttp229.GetKeyCode|block": "SDO引脚 %SDO|SCL引脚 %SCL"
+    "ttp229.GetKeyCode|block": "触摸键盘|SDO引脚 %SDO|SCL引脚 %SCL"
 }

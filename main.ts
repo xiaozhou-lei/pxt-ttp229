@@ -7,7 +7,7 @@ namespace ttp229
 {
 
      //% blockId=ttp229_GetKeyCode
-     //% block="SDOPIN %SDO|SCLPIN %SCL"
+     //% block="touch_keyboard|SDOPIN %SDO|SCLPIN %SCL"
      export function GetKeyCode(SDO: DigitalPin, SCL: DigitalPin): string
      {
  
